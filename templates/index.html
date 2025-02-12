@@ -11,6 +11,28 @@
 
 <body>
     <h1>Philippines School Monitoring Dashboard</h1>
+
+    <!-- Region Filter -->
+    <form method="POST" class="region-filter">
+        <label for="region">Filter by Region:</label>
+        <select name="region" id="region">
+            <option value="All" {% if selected_region == "All" %}selected{% endif %}>All</option>
+            {% for region in regions %}
+                <option value="{{ region }}" {% if region == selected_region %}selected{% endif %}>
+                    {{ region }}
+                </option>
+            {% endfor %}
+        </select>
+        <button type="submit">Apply</button>
+    </form>
+
+    <!-- KPI Cards in a Row -->
+    <div class="kpi-container">
+        <div class="kpi">Avg Student-Teacher Ratio: <span>{{ avg_teacher_ratio }}</span></div>
+        <div class="kpi">Schools Without Electricity: <span>{{ num_elec }}</span></div>
+        <div class="kpi">Avg NAT Score: <span>{{ avg_nat_score }}</span></div>
+        <div class="kpi">Avg CCT Recipients: <span>{{ avg_cct }}%</span></div>
+    </div>
 </body>
 
 </html>

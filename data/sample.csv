@@ -1,0 +1,101 @@
+Unnamed: 0,school_year,school_id,cluster,remoteness_index,total_recieving_cct,cct_percentage,comments,original_water_boolean,nowater,original_internet_boolean,no_internet,noelec,original_electricity_boolean,instructional__rooms_,student_classroom_ratio,total_teachers,student_teacher_ratio,Lat,Lon,school_name,Region,division,province,municipality,district,total_female,total_male,total_enrollment,nat_score
+15121,2016,114801,Accessible,-303.1,163,72.44444444,,1,0,0,1,0,1,8,28.125,8,28.125,11.411211,122.248306,Agtughangin IS,Region VI,Aklan,Aklan,Madalag,Madalag,101,124,225,16
+20200,2017,118601,1,543.2,0,0,,1,0,1,0,0,1,8,19.25,7,22,10.128915,124.588573,Saguise elementary school,Region VII,Bohol,Bohol,Pres. Carlos P. Garcia (Pitogo),2nd District,81,73,154,61
+12345,2016,114305,Accessible,-561.9,9,2.931596091,,0,1,1,0,0,1,10,30.7,12,25.58333333,12.539972,124.054864,Bon-ot (Big) ES,Region V,Sorsogon,Sorsogon,Matnog,Matnog,135,172,307,32
+20207,2017,119408,2,-208.6,0,0,,1,0,0,1,0,1,11,12.54545455,7,19.71428571,0,0,Salamanca ES,Region VII,Cebu,Cebu,Ginatilan,2nd District,58,80,138,80
+33628,2016,132483,Accessible,-716.6,13,11.50442478,,1,0,0,1,0,1,5,22.6,4,28.25,9.663946,125.574974,Suyoc ES,CARAGA,Surigao del Norte,Surigao Del Norte,Placer,Placer II,56,57,113,50
+20574,2017,120604,2,-574.8,7,0.902061856,,1,0,1,0,0,1,26,29.84615385,24,32.33333333,9.922607,123.169141,Tayasan CES,Region VII,Negros Oriental,Negros Oriental,Tayasan,1st District,390,386,776,17
+25812,2015,126200,Accessible,-606,49,12.86089239,,1,0,0,1,0,1,10,38.1,9,42.33333333,6.989261,122.095739,Lumayang ES,Region IX,Zamboanga City,Zamboanga Del Sur,Zamboanga City,Putik,205,238,381,50
+40743,2017,303204,2,-771.4,40,3.872216844,,1,0,1,0,0,1,16,64.5625,44,23.47727273,10.328369,123.933264,Tipolo NHS,Region VII,Mandaue City,Cebu,Mandaue City,6th District,514,519,1033,87
+6244,2016,106476,Accessible,-763.75,0,0,,1,0,0,1,0,1,11,25.72727273,7,40.42857143,15.55457291,120.5993003,Parsolingan ES,Region III,Tarlac,Tarlac,Gerona,Gerona South,133,150,283,25
+35589,2015,133665,Accessible,-705.6,0,0,,1,0,0,1,0,1,7,47.71428571,13,25.69230769,0,0,Taliogon Elementary School,ARMM,Lanao del Sur - II,Lanao Del Sur,Ganassi,East Ganassi,192,191,334,36
+33756,2016,131831,Accessible,-695.5,78,45.88235294,,1,0,0,1,0,1,3,56.66666667,5,34,8.34390728,125.9541658,Valentina ES,CARAGA,Agusan del Sur,Agusan Del Sur,Rosario,Rosario II,90,80,170,68
+4295,2016,102777,Accessible,-576.4,31,29.24528302,,1,0,0,1,0,1,5,21.2,4,26.5,18.097688,121.53817,Tucalan Passing ES,Region II,Cagayan,Cagayan,Lasam,Lasam West,50,56,106,5
+12493,2017,113059,2,-229,24,11.94029851,,1,0,0,1,0,1,4,50.25,7,28.71428571,13.817994,123.045323,Cotmo ES,Region V,Camarines Sur,Camarines Sur,Sipocot,1st District,76,125,201,38
+19477,2017,120390,2,-646.85,26,19.40298507,,1,0,1,0,0,1,9,14.88888889,6,22.33333333,9.696258,123.121956,Libjo ES,Region VII,Negros Oriental,Negros Oriental,Manjuyod,1st District,77,57,134,45
+5978,2016,104754,Accessible,-625.6,0,0,,1,0,1,0,0,1,11,29.63636364,9,36.22222222,14.95466231,120.8624008,Matangtubig ES,Region III,Bulacan,Bulacan,Baliuag,Baliuag South,161,165,326,42
+1002,2016,101684,Accessible,-690.8,97,37.74319066,,1,0,1,0,0,1,9,28.55555556,7,36.71428571,15.845995,120.353602,Gueteb ES,Region I,"Pangasinan I, Lingayen",Pangasinan,Urbiztondo,Urbiztondo,121,136,257,25
+7330,2016,105852,Accessible,-631.4,74,52.11267606,,1,0,0,1,0,1,7,20.28571429,6,23.66666667,15.783003,120.811157,Villa Rosenda Elementary School,Region III,Nueva Ecija,Nueva Ecija,Talugtug,Talugtug,62,80,142,52
+16118,2017,116951,2,-491,43,13.91585761,,1,0,1,0,0,1,12,25.75,9,34.33333333,9.826363,122.608259,Haba ES,Region VI,Negros Occidental,Negros Occidental,City Of Sipalay,6th District,142,167,309,23
+35049,2015,133402,Accessible,-685.6,45,13.80368098,,1,0,0,1,0,1,2,163,6,54.33333333,0,0,Minanga ES,ARMM,Lanao del Sur - I,Lanao Del Sur,Masiu,Masiu A District,201,172,326,32
+21946,2015,120803,Accessible,-475.6,44,9.341825902,,1,0,0,1,0,1,14,33.64285714,14,33.64285714,11.570127,124.578827,Caibiran Sped Center,Region VIII,Biliran,Biliran,Caibiran,Caibiran,233,254,471,94
+39678,2016,301393,Accessible,-556.8,489,50.15384615,,1,0,1,0,0,1,30,32.5,35,27.85714286,13.669269,122.22218,"San Isidro NHS, Gen. Luna",Region IV-A,Quezon,Quezon,General Luna,Gen. Luna,0,0,975,30
+16365,2015,117574,Accessible,-760.3,3,0.572519084,,1,0,0,1,0,1,14,37.42857143,16,32.75,10.974221,123.196594,Gen. A. Lacson ES,NIR,Cadiz City,Negros Occidental,Cadiz City,Cadiz City IV District,253,344,524,52
+11905,2016,112130,Accessible,-780.2,55,15.10989011,,1,0,1,0,0,1,14,26,11,33.09090909,14.116754,122.949993,A. Pabico Abordo ES,Region V,Camarines Norte,Camarines Norte,Daet (Capital),Daet North,173,191,364,64
+10798,2017,111068,2,-606,42,11.38211382,,1,0,1,0,0,1,14,26.35714286,12,30.75,9.32322,118.45488,Malatgao Elementary School,Region IV-B,Palawan,Palawan,Narra,2nd District,172,197,369,16
+36728,2016,135355,Accessible,-628.55,41,39.80582524,,1,0,0,1,0,1,7,14.71428571,6,17.16666667,18.1097,121.3561,Malibang ES,CAR,Apayao,Apayao,Pudtol,Pudtol,50,53,103,76
+12843,2016,112027,Accessible,-626.6,0,0,,0,1,0,1,0,1,7,29,7,29,13.220136,124.03415,Dapdap Elementary School,Region V,Albay,Albay,Rapu-Rapu,Rapu-Rapu East (Rapu-Rapu),104,99,203,58
+25877,2016,196023,Accessible,-670.9,13,4.980842912,,1,0,1,0,0,1,10,26.1,12,21.75,8.097279,123.448152,Mahayag SPED Center,Region IX,Zamboanga del Sur,Zamboanga Del Sur,Mahayag,Mahayag North,143,118,261,30
+7653,2016,108798,Accessible,-626.2,57,35.8490566,,1,0,0,1,0,1,4,39.75,7,22.71428571,13.896535,122.271566,Bebito ES,Region IV-A,Quezon,Quezon,Lopez,Lopez East,75,84,159,9
+43031,2017,319115,2,-601.8,0,0,Zero Teachers; Student-Teacher Ratio replaced with the total enrollemnt,0,1,1,0,0,1,6,15.83333333,7,13.57142857,17.268122,121.1579144,Tinglayan National High School,CAR,Kalinga,Kalinga,Tinglayan,Lone District,39,56,95,49
+41947,2015,302991,Accessible,-675.6,9,1.25,Zero Teachers; Student-Teacher Ratio replaced with the total enrollemnt,0,1,1,0,0,-999,11,65.45454545,19,37.89473684,10.3875,123.9555556,Pulpogan NHS,Region VII,Cebu,Cebu,Consolacion,Consolacion,351,351,720,3
+11589,2015,110220,Accessible,-566.8,13,2.777777778,,1,0,0,1,0,1,13,36,25,18.72,12.883198,120.82299,San Vicente ES,Region IV-B,Occidental Mindoro,Occidental Mindoro,Sablayan,Sablayan North,249,286,468,51
+37878,2015,300170,Accessible,-656.8,0,0,,1,0,0,1,0,1,11,10.54545455,7,16.57142857,15.84995,120.39985,BAYOYONG NHS,Region I,"Pangasinan I, Lingayen",Pangasinan,Basista,Basista,58,58,116,55
+36081,2016,136205,Accessible,-631.5,16,18.3908046,,0,1,0,1,0,1,6,14.5,5,17.4,16.87611111,120.8875,Binaka ES,CAR,Mt. Province,Mountain Province,Bauko,Bauko II,35,52,87,30
+25993,2016,124826,Accessible,-219.8,105,59.65909091,,0,1,0,1,1,0,7,25.14285714,7,25.14285714,7.723069,122.122993,Matiag ES,Region IX,Zamboanga del Norte,Zamboanga Del Norte,Siocon,Siocon,95,81,176,59
+32109,2016,130895,Accessible,-710.7,0,0,,1,0,0,1,0,1,8,32.875,8,32.875,6.389822,124.86847,Tubeng ES,Region XII,South Cotabato,South Cotabato,Tupi,Tupi North,134,129,263,15
+11090,2016,110359,Accessible,-506.2,61,17.68115942,,1,0,0,1,0,1,11,31.36363636,10,34.5,12.772319,121.392665,Malu Elementary School,Region IV-B,Oriental Mindoro,Oriental Mindoro,Bansud,Bansud,148,197,345,0
+22527,2016,124092,Accessible,-528.6,0,0,,0,1,0,1,1,0,2,10.5,2,10.5,12.246747,124.687901,Gasdo Elementary School,Region VIII,Calbayog City,Western Samar,Calbayog City,Calbayog District V,5,16,21,90
+13136,2015,112227,Accessible,-745.7,1,0.20746888,,1,0,0,1,0,1,15,32.13333333,15,32.13333333,14.109268,123.007113,Hinipaan Elementary School,Region V,Camarines Norte,Camarines Norte,Mercedes,Mercedes,265,293,482,95
+42181,2017,304661,2,-795.53,33,0.624526874,,1,0,0,1,0,1,65,81.29230769,170,31.08235294,7.008179442,125.088074,Kidapawan City National High School,Region XII,Kidapawan City,North Cotabato,City Of Kidapawan (Capital),2nd District,2792,2492,5284,33
+10509,2017,110942,1,2906.2,16,7.582938389,,1,0,0,1,1,0,7,30.14285714,7,30.14285714,11.774826,120.001827,Halsey Elementary School,Region IV-B,Palawan,Palawan,Culion,1st District,105,106,211,98
+37377,2015,136499,Accessible,-735.2,0,0,,1,0,1,0,0,1,10,65.7,22,29.86363636,14.645151,121.021697,Bayanihan Elementary School,NCR,Quezon City,Ncr,Quezon City,School District III,394,366,657,87
+31307,2017,208018,2,-565.8,0,0,,1,0,0,1,0,1,7,16.28571429,6,19,6.244359,125.28994,Saliluk L. Macantal ES,Region XII,Sarangani,Sarangani,Alabel (Capital),Lone District,49,65,114,96
+33165,2015,132131,Accessible,-730.3,3,4.6875,,1,0,0,1,0,1,6,10.66666667,5,12.8,9.84819,126.046,Montserrat ES,CARAGA,Siargao,Surigao Del Norte,Dapa,Dapa East,49,23,64,3
+29747,2015,128675,Accessible,-690.6,11,2.644230769,,1,0,0,1,0,1,12,34.66666667,12,34.66666667,7.646669,125.674632,Mabantao ES,Region XI,Davao del Norte,Davao Del Norte,Kapalong,Kapalong East,228,252,416,60
+24482,2015,191518,Accessible,-760.3,20,9.389671362,,1,0,0,1,0,1,4,53.25,8,26.625,11.14837778,124.9882139,Tacuranga Elementary School,Region VIII,Leyte,Leyte,Palo,Palo II,115,130,213,28
+9312,2016,108091,Accessible,-760.3,356,10.22988506,,0,1,1,0,0,1,51,68.23529412,89,39.1011236,14.41685275,120.8560147,Rosario ES,Region IV-A,Cavite,Cavite,Rosario,Rosario,1689,1791,3480,66
+14308,2015,113706,Accessible,-407.4,147,60.24590164,,1,0,0,1,1,0,7,34.85714286,7,34.85714286,12.20114517,123.6519095,San Carlos ES,Region V,Masbate,Masbate,Milagros,Milagros East,134,137,244,38
+7668,2017,109348,2,-675.6,1,0.128700129,,1,0,0,1,0,1,17,45.70588235,21,37,14.673251,121.242294,Calawis ES,Region IV-A,Antipolo City,Rizal,City Of Antipolo,2nd District,370,407,777,49
+15376,2016,117592,Accessible,-767.95,119,16.48199446,,1,0,1,0,0,1,23,31.39130435,23,31.39130435,10.739145,122.579869,Balabago ES,Region VI,Iloilo City,Iloilo,Iloilo City (Capital),Jaro,366,356,722,86
+39879,2016,301537,Accessible,-742.95,0,0,,1,0,1,0,0,1,8,29.625,5,47.4,13.265876,121.917283,Buenavista NHS - Daykitin Annex,Region IV-B,Marinduque,Marinduque,Buenavista,Buenavista,0,0,237,45
+8720,2015,107765,Accessible,-770.3,67,13.45381526,,1,0,1,0,0,1,15,33.2,14,35.57142857,14.137796,121.089579,Malaking Pulo ES,Region IV-A,Tanauan City,Batangas,City Of Tanauan,Tanauan City West,256,306,498,53
+538,2015,100787,Accessible,-752.55,1,0.595238095,,1,0,1,0,0,1,9,18.66666667,10,16.8,17.561142,120.402222,Cabaroan ES (Cabaruan-Cabalangegan ES),Region I,Vigan City,Ilocos Sur,City Of Vigan (Capital),District III,80,107,168,21
+43573,2015,304333,Accessible,-566.8,340,48.99135447,,1,0,0,1,0,1,19,36.52631579,23,30.17391304,7.439784,126.543399,San Luis NHS,Region XI,Davao Oriental,Davao Oriental,Caraga,Caraga North,334,334,694,43
+30057,2017,130995,2,-770.2,6,1.474201474,,1,0,0,1,0,1,16,25.4375,17,23.94117647,6.680656,124.56366,Ala Central School,Region XII,Sultan Kudarat,Sultan Kudarat,Esperanza,2nd District,197,210,407,55
+10783,2017,110022,2,-606.2,43,22.39583333,,1,0,1,0,0,1,8,24,7,27.42857143,13.259161,122.018456,Makawayan ES,Region IV-B,Marinduque,Marinduque,Torrijos,Lone District,81,111,192,37
+44713,2015,305167,Accessible,-675.6,6,2.352941176,,1,0,0,1,0,1,12,21.25,14,18.21428571,16.711698,121.06459,Asipulo NHS,CAR,Ifugao,Ifugao,Asipulo,Asipulo,161,161,255,34
+22051,2016,123147,Accessible,-466.8,2,2.597402597,,1,0,0,1,0,1,6,12.83333333,3,25.66666667,12.53224621,125.0953623,Campedico ES,Region VIII,Northern Samar,Northern Samar,Palapag,Palapag I,42,35,77,92
+33343,2017,133277,2,-755.2,30,9.230769231,,0,1,0,1,0,1,8,40.625,9,36.11111111,0,0,Barimbingan Central ES,ARMM,Lanao del Sur - I,Lanao Del Sur,Ditsaan-Ramain,1st District,170,155,325,62
+41336,2016,311013,Accessible,-660.55,63,37.5,,1,0,0,1,0,1,9,18.66666667,9,18.66666667,10.677612,122.235554,Supt. Arsenio M. Napud MNHS,Region VI,Iloilo,Iloilo,Miagao,Miagao East,0,0,168,45
+16663,2015,117027,Accessible,-750.6,108,43.72469636,,1,0,0,1,0,1,10,24.7,7,35.28571429,10.8477,122.985703,Jose D. Cuaycong ES,NIR,Negros Occidental,Negros Occidental,Enrique B. Magalona (Saravia),Enrique B. Magalona,153,133,247,6
+14637,2015,114095,Accessible,-750.3,0,0,,1,0,0,1,0,1,13,27.07692308,11,32,12.895511,124.042721,Sta. Cruz ES,Region V,Sorsogon,Sorsogon,Casiguran,Casiguran,186,216,352,44
+15970,2015,115651,Accessible,-675.6,26,30.23255814,,1,0,0,1,0,1,7,12.28571429,5,17.2,11.45333333,122.7822222,Catmon Primary School,Region VI,Capiz,Capiz,Panitan,Panit-An,49,47,86,71
+3121,2015,103989,Accessible,-515.6,23,25.84269663,,1,0,0,1,0,1,5,17.8,4,22.25,0,0,Dulli ES,Region II,Nueva Vizcaya,Nueva Vizcaya,Ambaguio,Ambaguio,60,50,89,46
+42901,2017,305067,2,-358,0,0,,1,0,0,1,0,1,11,29.09090909,7,45.71428571,0,0,Tawi Tawi West Coast Agricultural high school,ARMM,Tawi-Tawi,Tawi-Tawi,Languyan,Lone District,167,153,320,89
+39298,2015,301514,Accessible,-758.95,0,0,,1,0,1,0,0,1,47,48.19148936,77,29.41558442,14.21566579,121.1860962,Calamba Bayside National High School,Region IV-A,Calamba City,Laguna,City Of Calamba,Calamba City East II,1233,1233,2265,29
+33973,2017,133285,2,-646.2,256,86.48648649,,1,0,0,1,0,1,3,98.66666667,6,49.33333333,0,0,Kapai ES,ARMM,Lanao del Sur - I,Lanao Del Sur,Kapai,1st District,148,148,296,27
+22014,2015,122310,Accessible,-650.9,18,27.69230769,,1,0,0,1,0,1,3,21.66666667,4,16.25,10.308333,124.945264,Camansi ES,Region VIII,Southern Leyte,Southern Leyte,Tomas Oppus,Tomas Oppus,43,33,65,58
+27903,2017,127384,2,-805,34,23.28767123,,1,0,1,0,0,1,6,24.33333333,7,20.85714286,8.344602,123.80943,Petianan ES,Region X,Misamis Occidental,Misamis Occidental,Don Victoriano Chiongbian,2nd District,63,83,146,36
+34233,2016,134025,Accessible,-725.6,57,16.10169492,,0,1,0,1,0,1,10,35.4,8,44.25,0,0,Dadtumeg ES,ARMM,Maguindanao II,Maguindanao,Kabuntalan (Tumbao),Kabuntalan South,179,175,354,44
+19188,2015,118235,Accessible,-562.2,95,46.11650485,,1,0,0,1,0,1,9,22.88888889,7,29.42857143,9.974134,124.211462,Cantubod ES,Region VII,Bohol,Bohol,Danao,Danao,99,132,206,93
+32539,2015,132539,Accessible,-156,141,71.21212121,,1,0,0,1,0,1,10,19.8,6,33,9.7,125.583336,Cawilan ES,CARAGA,Surigao del Norte,Surigao Del Norte,Tagana-An,Tagana-An,95,125,198,3
+38544,2017,301198,2,-660.9,17,2.309782609,,1,0,0,1,0,1,24,30.66666667,28,26.28571429,14.107962,120.82809,Kaytitinga NHS,Region IV-A,Cavite,Cavite,Alfonso,7th District,367,369,736,56
+14789,2015,114406,Accessible,-603.55,98,41.35021097,,0,1,0,1,0,1,8,29.625,6,39.5,13.068007,124.140611,Talisayan ES,Region V,Sorsogon,Sorsogon,Prieto Diaz,Prieto Diaz,133,138,237,62
+13177,2017,112800,2,-600.6,121,61.4213198,,0,1,0,1,0,1,7,28.14285714,7,28.14285714,13.483286,123.202007,Magadap Elementary School,Region V,Camarines Sur,Camarines Sur,Minalabac,2nd District,86,111,197,59
+9185,2016,109388,Accessible,-710.25,27,5.378486056,,1,0,0,1,0,1,14,35.85714286,16,31.375,14.41694444,121.2161111,Pipindan ES,Region IV-A,Rizal,Rizal,Binangonan,Binangonan II,248,254,502,41
+34096,2015,134870,Extremely remote,4587,0,0,,1,0,0,1,1,0,3,52.66666667,5,31.6,5.409493,120.588348,Bubuan Elementary School,ARMM,Tawi-Tawi,Tawi-Tawi,South Ubian,East South Ubian,84,92,158,67
+16393,2016,115714,Accessible,-690.9,0,0,,1,0,0,1,0,1,7,25.71428571,9,20,11.42027778,122.9744444,Goce ES,Region VI,Capiz,Capiz,President Roxas,President Roxas,79,101,180,97
+5003,2016,104677,Accessible,-756.3,0,0,,1,0,0,1,0,1,7,18.71428571,7,18.71428571,14.64176271,120.5790307,Camachile ES,Region III,Bataan,Bataan,Orion,Orion,56,75,131,4
+23595,2016,124237,Accessible,-757.5,12,12.76595745,,0,1,0,1,0,-999,5,18.8,6,15.66666667,11.336099,124.969946,Old Kawayan Elementary School,Region VIII,Tacloban City,Leyte,Tacloban City (Capital),District Learning Center VI,42,52,94,95
+15821,2016,115892,Accessible,-752.95,160,35.24229075,,1,0,0,1,0,1,15,30.26666667,14,32.42857143,10.47237999,122.5850134,Calaya ES,Region VI,Guimaras,Guimaras,Nueva Valencia,Nueva Valencia North,218,236,454,25
+41211,2015,302668,Accessible,-676.9,255,33.68560106,,1,0,1,0,0,1,37,20.45945946,41,18.46341463,10.235416,122.946121,Negros Occ. NAISHI ( under the Reg'l Office),Region VI,Negros Occidental,Negros Occidental,Hinigaran,Hinigaran II,381,381,757,21
+18674,2015,119032,Accessible,-471.5,0,0,,1,0,0,1,0,1,6,19.33333333,6,19.33333333,10.520084,123.793037,Bayong ES,Region VII,Cebu,Cebu,Balamban,Balamban II,66,64,116,15
+12819,2017,114616,2,-717.95,62,13.13559322,,1,0,1,0,0,1,14,33.71428571,13,36.30769231,13.375362,123.796025,Hacienda ES,Region V,Tabaco City,Albay,City Of Tabaco,1st District,234,238,472,42
+2954,2015,103247,Accessible,-636.2,5,0.418410042,,1,0,0,1,0,1,39,30.64102564,35,34.14285714,16.67316667,121.4644333,Cordon South CS-Main,Region II,Isabela,Isabela,Cordon,Cordon South,642,735,1195,27
+13525,2015,114378,Accessible,-715.6,72,40.22346369,,1,0,0,1,0,1,8,22.375,6,29.83333333,12.94861111,123.7625,Malbog ES,Region V,Sorsogon,Sorsogon,Pilar,Pilar II,94,106,179,42
+21049,2017,122518,2,-506.8,21,28.76712329,,1,0,0,1,0,1,3,24.33333333,4,18.25,10.9843,125.6512,Banaag Elementary School,Region VIII,Eastern Samar,Eastern Samar,Guiuan,Lone District,34,39,73,24
+24367,2017,125274,2,-715.6,0,0,,1,0,0,1,0,1,9,26.44444444,9,26.44444444,8.089397,123.505161,Anatalio T. Lobitana Elem.School-(formerly Sudlon ES,Region IX,Zamboanga del Sur,Zamboanga Del Sur,Molave,1st District,120,118,238,24
+14414,2015,113295,Accessible,-676.2,0,0,,1,0,0,1,0,1,7,7,4,12.25,13.641184,124.300858,San Marcos ES,Region V,Catanduanes,Catanduanes,San Miguel,San Miguel North,29,28,49,100
+42310,2015,303378,Accessible,-526.8,185,31.14478114,,1,0,1,0,0,1,26,22.84615385,35,16.97142857,10.92461636,124.4459424,Isabel National High School,Region VIII,Leyte,Leyte,Isabel,Isabel,262,262,594,7
+2410,2017,103413,2,-745.4,0,0,,1,0,0,1,0,1,7,19.85714286,6,23.16666667,17.133379,122.134104,Arusip ES,Region II,City of Ilagan,Isabela,Ilagan City (Capital),1st District,67,72,139,56
+32314,2017,132863,2,-663.55,4,1.646090535,,1,0,1,0,0,1,7,34.71428571,7,34.71428571,8.719879023,126.1979886,Lamela Elementary School,CARAGA,Surigao del Sur,Surigao Del Sur,San Agustin,1st District,114,129,243,11
+1495,2015,100851,Accessible,-656.2,1,0.900900901,,1,0,0,1,0,1,8,13.875,6,18.5,16.776236,120.395128,Ortega ES,Region I,La Union,La Union,Bacnotan,Bacnotan,71,63,111,87
+6283,2017,105468,2,-682.95,116,25.72062084,,1,0,0,1,0,1,15,30.06666667,15,30.06666667,15.568566,121.151302,Sagana ES,Region III,Nueva Ecija,Nueva Ecija,Laur,3rd District,234,217,451,27
+40694,2015,302169,Remote,399.8,326,75.2886836,,1,0,0,1,0,1,14,30.92857143,25,17.32,13.05381325,123.0089213,San Pedro NHS,Region V,Masbate,Masbate,San Pascual,San Pascual North,253,253,433,23
+36825,2017,136776,2,-796.02,1,0.092592593,,1,0,1,0,0,1,17,63.52941176,30,36,14.47805556,120.9802778,Ilaya Elementary School,NCR,Las Piñas City,Ncr   Fourth District,City Of Las Piñas,Lone District,490,590,1080,4
+9256,2015,107304,Accessible,-717.6,84,15.18987342,,1,0,0,1,0,1,13,42.53846154,15,36.86666667,13.92507,120.824677,Puting Bato ES,Region IV-A,Batangas,Batangas,Calaca,Calaca,318,317,553,57
+8186,2015,108384,Accessible,-780.75,48,4.532577904,,1,0,1,0,0,1,32,33.09375,29,36.51724138,14.274581,121.454002,FRANCISCO BENITEZ MEMORIAL SCHOOL,Region IV-A,Laguna,Laguna,Pagsanjan,Pagsanjan,628,579,1059,97
+32120,2016,130399,Accessible,-660.9,12,0.775694893,,1,0,1,0,0,1,35,44.2,43,35.97674419,6.830321834,124.8593855,Tulunan CES,Region XII,North Cotabato,North Cotabato,Tulunan,Tulunan North,736,811,1547,11
+4000,2015,103964,Accessible,-732.2,4,2.051282051,,1,0,0,1,0,1,8,24.375,8,24.375,0,0,San Leonardo ES,Region II,Nueva Vizcaya,Nueva Vizcaya,Bambang,Bambang I,107,111,195,82
+13315,2016,113920,Remote,1047.8,70,18.9701897,,1,0,0,1,0,1,12,30.75,11,33.54545455,13.13441883,123.0205825,Laurente ES,Region V,Masbate,Masbate,San Pascual,San Pascual North,169,200,369,46
