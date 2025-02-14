@@ -1,11 +1,12 @@
 from flask import Flask, render_template, request, jsonify
 import pandas as pd
+import folium 
 
 app = Flask(__name__)
 
 def load_data():
     # Read CSV and handle missing values
-    return pd.read_csv("./data/sample.csv").fillna("")
+    return pd.read_csv("./data/sample.csv").fillna("").sort_values(by = "nat_score", ascending = False)
 
 @app.route('/', methods=["GET", "POST"])
 def index():
@@ -30,6 +31,21 @@ def index():
     num_elec = schools["noelec"].sum()    
     avg_nat_score = round(schools["nat_score"].mean(), 1)
     avg_cct = round(schools["cct_percentage"].mean(), 1)
+
+    # Map of Schools
+    school_map = folium.Map(location=[12.8797, 121.7740], zoom_start=6)
+    for _, row in schools.iterrows():
+        folium.CircleMarker(
+            location=[row["Lat"], row["Lon"]],
+            popup=f"{row['school_name']}<br>NAT Score: {row['nat_score']}%",
+            # icon=folium.Icon(color="blue" if row["original_internet_boolean"] else "red")
+            radius=4,  # Circle size
+            color="green",  # Border color
+            fill=True,
+            fill_color="green",
+            fill_opacity=0.7,
+        ).add_to(school_map)
+    school_map.save("static/school_map.html")
 
     return render_template("index.html",
         avg_teacher_ratio=avg_teacher_ratio,

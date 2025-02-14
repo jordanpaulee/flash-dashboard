@@ -33,6 +33,31 @@
         <div class="kpi">Avg NAT Score: <span>{{ avg_nat_score }}</span></div>
         <div class="kpi">Avg CCT Recipients: <span>{{ avg_cct }}%</span></div>
     </div>
+
+    <!-- 3-Column Layout -->
+    <div class="dashboard-container">
+
+        <!-- Left Column: Rankings -->
+        <div class="left-column">
+            <h2>School Rankings (Top NAT Scores)</h2>
+            <ol class="ranking-list">
+                {% for school in schools[:10] %}
+                    <li>{{ school['school_name'] }} - NAT Score: {{ school['nat_score'] }}</li>
+                {% endfor %}
+            </ol>
+        </div>
+
+        <!-- Middle Column: Map -->
+        <div class="middle-column">
+            <h2>School Locations</h2>
+            <iframe src="{{ url_for('static', filename='school_map.html') }}" width="100%" height="500px"></iframe>
+        </div>
+
+        <!-- Right Column: Scatter Plot & Pie Chart -->
+        <div class="right-column">
+        </div>
+
+    </div>
 </body>
 
 </html>
