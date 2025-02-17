@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Philippines School Monitoring Dashboard</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 
 <body>
@@ -55,6 +56,36 @@
 
         <!-- Right Column: Scatter Plot & Pie Chart -->
         <div class="right-column">
+            <div id="scatterplot-container" style="width: 100%; max-width: 400px; margin: auto;">
+                
+                <h2>Student Gender Distribution</h2>
+                <img src="{{ url_for('static', filename='gender_pie.png') }}" alt="Internet Access Pie Chart">
+                
+                <script>
+                    const data = {{ schools|tojson }}
+                    console.log(data)
+
+                    let trace = {
+                        x: data.map(d => d.student_teacher_ratio),
+                        y: data.map(d => d.nat_score),
+                        mode: 'markers',
+                        marker: { color: 'blue' },
+                        text: data.map(d => d.SchoolName)
+                    };
+
+                    let layout = {
+                        // title: "Student-Teacher Ratio <br> vs. NAT Score",
+                        xaxis: { title: "Student-Teacher Ratio" },
+                        yaxis: { title: "NAT Score" },
+                        autosize: true,  // Ensure automatic resizing
+                        height: 350  // Set a fixed height
+                    };
+
+                    Plotly.newPlot("scatterplot-container", [trace], layout);
+
+                </script>
+
+            </div>
         </div>
 
     </div>

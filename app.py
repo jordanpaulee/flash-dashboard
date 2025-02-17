@@ -1,6 +1,9 @@
 from flask import Flask, render_template, request, jsonify
 import pandas as pd
 import folium 
+import matplotlib
+matplotlib.use('Agg')  # Ensure non-GUI mode for Matplotlib
+import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 
@@ -46,6 +49,19 @@ def index():
             fill_opacity=0.7,
         ).add_to(school_map)
     school_map.save("static/school_map.html")
+
+    # Pie Chart: Male vs Female Students
+    total_male = schools["total_male"].sum()  # Sum all male students
+    total_female = schools["total_female"].sum()  # Sum all female students
+    plt.figure(figsize=(4, 4))
+    plt.pie(
+        [total_male, total_female], 
+        labels=["Male Students", "Female Students"], 
+        autopct='%1.1f%%', 
+        colors=["blue", "pink"]
+    )
+    plt.savefig("static/gender_pie.png")
+    plt.close()
 
     return render_template("index.html",
         avg_teacher_ratio=avg_teacher_ratio,
